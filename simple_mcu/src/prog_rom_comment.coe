@@ -1,0 +1,19 @@
+memory_initialization_radix=16;
+memory_initialization_vector=
+11,  -- 0: LDI  1
+40,  -- 1: OUT      (LED <= ACC)
+21,  -- 2: ADDI 1
+40,  -- 3: OUT
+61,  -- 4: JMP 1
+00,  -- 5: NOP
+00,  -- 6: NOP
+00,  -- 7: NOP
+00,  -- 8: NOP
+00,  -- 9: NOP
+00,  -- 10: NOP
+00,  -- 11: NOP
+00,  -- 12: NOP
+00,  -- 13: NOP
+00,  -- 14: NOP
+00;  -- 15: NOP
+
