@@ -1,6 +1,7 @@
-1. switch
+1. led_blink
 2. seven_seg
 3. uart_txd
 4. uart_rxd
 5. spi
 6. simple_mcu
+
