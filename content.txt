@@ -4,4 +4,5 @@
 4. uart_rxd
 5. spi
 6. simple_mcu
+7. adc_mcu
 
